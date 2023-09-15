@@ -1,0 +1,183 @@
+C:\Users\LabInfo\source\repos\Solucao_Calculadora\Solucao_Calculadora\bin\Debug\Solucao_Calculadora.exe.config
+C:\Users\LabInfo\source\repos\Solucao_Calculadora\Solucao_Calculadora\bin\Debug\Solucao_Calculadora.exe
+C:\Users\LabInfo\source\repos\Solucao_Calculadora\Solucao_Calculadora\bin\Debug\Solucao_Calculadora.pdb
+C:\Users\LabInfo\source\repos\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.csprojAssemblyReference.cache
+C:\Users\LabInfo\source\repos\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.Form1.resources
+C:\Users\LabInfo\source\repos\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.Properties.Resources.resources
+C:\Users\LabInfo\source\repos\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.csproj.GenerateResource.cache
+C:\Users\LabInfo\source\repos\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\LabInfo\source\repos\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.exe
+C:\Users\LabInfo\source\repos\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.pdb
+C:\Users\T-GAMER\Downloads\Solucao_Calculadora\Solucao_Calculadora\Solucao_Calculadora\bin\Debug\Solucao_Calculadora.exe.config
+C:\Users\T-GAMER\Downloads\Solucao_Calculadora\Solucao_Calculadora\Solucao_Calculadora\bin\Debug\Solucao_Calculadora.exe
+C:\Users\T-GAMER\Downloads\Solucao_Calculadora\Solucao_Calculadora\Solucao_Calculadora\bin\Debug\Solucao_Calculadora.pdb
+C:\Users\T-GAMER\Downloads\Solucao_Calculadora\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.csproj.AssemblyReference.cache
+C:\Users\T-GAMER\Downloads\Solucao_Calculadora\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\T-GAMER\Downloads\Solucao_Calculadora\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.Form1.resources
+C:\Users\T-GAMER\Downloads\Solucao_Calculadora\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.Properties.Resources.resources
+C:\Users\T-GAMER\Downloads\Solucao_Calculadora\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.csproj.GenerateResource.cache
+C:\Users\T-GAMER\Downloads\Solucao_Calculadora\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\Downloads\Solucao_Calculadora\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.exe
+C:\Users\T-GAMER\Downloads\Solucao_Calculadora\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.pdb
+C:\Users\LabInfo\Desktop\Solucao_CalculadoraV2\Solucao_Calculadora\Solucao_Calculadora\bin\Debug\Solucao_Calculadora.exe.config
+C:\Users\LabInfo\Desktop\Solucao_CalculadoraV2\Solucao_Calculadora\Solucao_Calculadora\bin\Debug\Solucao_Calculadora.exe
+C:\Users\LabInfo\Desktop\Solucao_CalculadoraV2\Solucao_Calculadora\Solucao_Calculadora\bin\Debug\Solucao_Calculadora.pdb
+C:\Users\LabInfo\Desktop\Solucao_CalculadoraV2\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.csprojAssemblyReference.cache
+C:\Users\LabInfo\Desktop\Solucao_CalculadoraV2\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.Form1.resources
+C:\Users\LabInfo\Desktop\Solucao_CalculadoraV2\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.Properties.Resources.resources
+C:\Users\LabInfo\Desktop\Solucao_CalculadoraV2\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.csproj.GenerateResource.cache
+C:\Users\LabInfo\Desktop\Solucao_CalculadoraV2\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\LabInfo\Desktop\Solucao_CalculadoraV2\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.exe
+C:\Users\LabInfo\Desktop\Solucao_CalculadoraV2\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.pdb
+C:\Users\LabInfo\Desktop\Solucao_CalculadoraV2\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.frmMenuMDINovo.resources
+C:\Users\LabInfo\Desktop\Solucao_CalculadoraV2\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.frmCalcRadio.resources
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora1.2\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.csproj.AssemblyReference.cache
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora1.2\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora1.2\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.exe
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora1.2\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.pdb
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora1.2\Solucao_Calculadora\Solucao_Calculadora\bin\Debug\Solucao_Calculadora.exe.config
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora1.2\Solucao_Calculadora\Solucao_Calculadora\bin\Debug\Solucao_Calculadora.exe
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora1.2\Solucao_Calculadora\Solucao_Calculadora\bin\Debug\Solucao_Calculadora.pdb
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora1.2\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.Form1.resources
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora1.2\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.frmCalcRadio.resources
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora1.2\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.frmMenuMDINovo.resources
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora1.2\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.Properties.Resources.resources
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora1.2\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.csproj.GenerateResource.cache
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora1.2\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora1.3\Solucao_Calculadora\Solucao_Calculadora\bin\Debug\Solucao_Calculadora.exe.config
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora1.3\Solucao_Calculadora\Solucao_Calculadora\bin\Debug\Solucao_Calculadora.exe
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora1.3\Solucao_Calculadora\Solucao_Calculadora\bin\Debug\Solucao_Calculadora.pdb
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora1.3\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.csproj.AssemblyReference.cache
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora1.3\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora1.3\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.Form1.resources
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora1.3\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.frmCalcRadio.resources
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora1.3\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.frmMenuMDINovo.resources
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora1.3\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.Properties.Resources.resources
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora1.3\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.csproj.GenerateResource.cache
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora1.3\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora1.3\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.exe
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora1.3\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.pdb
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora1.4\Solucao_Calculadora1.4\Solucao_Calculadora\Solucao_Calculadora\bin\Debug\Solucao_Calculadora.exe.config
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora1.4\Solucao_Calculadora1.4\Solucao_Calculadora\Solucao_Calculadora\bin\Debug\Solucao_Calculadora.exe
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora1.4\Solucao_Calculadora1.4\Solucao_Calculadora\Solucao_Calculadora\bin\Debug\Solucao_Calculadora.pdb
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora1.4\Solucao_Calculadora1.4\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.csproj.AssemblyReference.cache
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora1.4\Solucao_Calculadora1.4\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora1.4\Solucao_Calculadora1.4\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.Form1.resources
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora1.4\Solucao_Calculadora1.4\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.frmCalcRadio.resources
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora1.4\Solucao_Calculadora1.4\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.frmMenuMDINovo.resources
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora1.4\Solucao_Calculadora1.4\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.Properties.Resources.resources
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora1.4\Solucao_Calculadora1.4\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.csproj.GenerateResource.cache
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora1.4\Solucao_Calculadora1.4\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora1.4\Solucao_Calculadora1.4\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.exe
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora1.4\Solucao_Calculadora1.4\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.pdb
+C:\Users\LabInfo\Downloads\Solucao_Calculadora2.0\Solucao_Calculadora\Solucao_Calculadora\bin\Debug\Solucao_Calculadora.exe.config
+C:\Users\LabInfo\Downloads\Solucao_Calculadora2.0\Solucao_Calculadora\Solucao_Calculadora\bin\Debug\Solucao_Calculadora.exe
+C:\Users\LabInfo\Downloads\Solucao_Calculadora2.0\Solucao_Calculadora\Solucao_Calculadora\bin\Debug\Solucao_Calculadora.pdb
+C:\Users\LabInfo\Downloads\Solucao_Calculadora2.0\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.csprojAssemblyReference.cache
+C:\Users\LabInfo\Downloads\Solucao_Calculadora2.0\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.Form1.resources
+C:\Users\LabInfo\Downloads\Solucao_Calculadora2.0\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.frmCalcRadio.resources
+C:\Users\LabInfo\Downloads\Solucao_Calculadora2.0\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.frmMenuMDINovo.resources
+C:\Users\LabInfo\Downloads\Solucao_Calculadora2.0\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.Properties.Resources.resources
+C:\Users\LabInfo\Downloads\Solucao_Calculadora2.0\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.csproj.GenerateResource.cache
+C:\Users\LabInfo\Downloads\Solucao_Calculadora2.0\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\LabInfo\Downloads\Solucao_Calculadora2.0\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.exe
+C:\Users\LabInfo\Downloads\Solucao_Calculadora2.0\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.pdb
+C:\Users\LabInfo\Downloads\Solucao_Calculadora2.0\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.Calc_Windows.resources
+C:\Users\gferr\Downloads\Solucao_Calculadora2.1\Solucao_Calculadora\Solucao_Calculadora\bin\Debug\Solucao_Calculadora.exe.config
+C:\Users\gferr\Downloads\Solucao_Calculadora2.1\Solucao_Calculadora\Solucao_Calculadora\bin\Debug\Solucao_Calculadora.exe
+C:\Users\gferr\Downloads\Solucao_Calculadora2.1\Solucao_Calculadora\Solucao_Calculadora\bin\Debug\Solucao_Calculadora.pdb
+C:\Users\gferr\Downloads\Solucao_Calculadora2.1\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.csproj.AssemblyReference.cache
+C:\Users\gferr\Downloads\Solucao_Calculadora2.1\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.Calc_Windows.resources
+C:\Users\gferr\Downloads\Solucao_Calculadora2.1\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.Form1.resources
+C:\Users\gferr\Downloads\Solucao_Calculadora2.1\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.frmCalcRadio.resources
+C:\Users\gferr\Downloads\Solucao_Calculadora2.1\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.frmMenuMDINovo.resources
+C:\Users\gferr\Downloads\Solucao_Calculadora2.1\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.Properties.Resources.resources
+C:\Users\gferr\Downloads\Solucao_Calculadora2.1\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.csproj.GenerateResource.cache
+C:\Users\gferr\Downloads\Solucao_Calculadora2.1\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\gferr\Downloads\Solucao_Calculadora2.1\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.exe
+C:\Users\gferr\Downloads\Solucao_Calculadora2.1\Solucao_Calculadora\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.pdb
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora2.3\Solucao_Calculadora\bin\Debug\Solucao_Calculadora.exe.config
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora2.3\Solucao_Calculadora\bin\Debug\Solucao_Calculadora.exe
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora2.3\Solucao_Calculadora\bin\Debug\Solucao_Calculadora.pdb
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora2.3\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.csproj.AssemblyReference.cache
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora2.3\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.Calc_Windows.resources
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora2.3\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.Form1.resources
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora2.3\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.frmCalcRadio.resources
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora2.3\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.frmMenuMDINovo.resources
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora2.3\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.Properties.Resources.resources
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora2.3\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.telaLogin.resources
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora2.3\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.csproj.GenerateResource.cache
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora2.3\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora2.3\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.exe
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora2.3\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.pdb
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora 3.0\Solucao_Calculadora\bin\Debug\Solucao_Calculadora.exe.config
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora 3.0\Solucao_Calculadora\bin\Debug\Solucao_Calculadora.exe
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora 3.0\Solucao_Calculadora\bin\Debug\Solucao_Calculadora.pdb
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora 3.0\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.csproj.AssemblyReference.cache
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora 3.0\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.Calc_Windows.resources
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora 3.0\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.Properties.Resources.resources
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora 3.0\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.csproj.GenerateResource.cache
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora 3.0\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora 3.0\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.exe
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora 3.0\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.pdb
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora 3.1\Solucao_Calculadora 3.1\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.csproj.AssemblyReference.cache
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora 3.1\Solucao_Calculadora 3.1\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.Calc_Windows.resources
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora 3.1\Solucao_Calculadora 3.1\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.Form1.resources
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora 3.1\Solucao_Calculadora 3.1\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.frmCalcRadio.resources
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora 3.1\Solucao_Calculadora 3.1\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.frmMenuMDINovo.resources
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora 3.1\Solucao_Calculadora 3.1\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.telaLogin.resources
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora 3.1\Solucao_Calculadora 3.1\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.csproj.GenerateResource.cache
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora 3.1\Solucao_Calculadora 3.1\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.exe
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora 3.1\Solucao_Calculadora 3.1\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.pdb
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora 3.1\Solucao_Calculadora 3.1\Solucao_Calculadora\bin\Debug\Solucao_Calculadora.exe.config
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora 3.1\Solucao_Calculadora 3.1\Solucao_Calculadora\bin\Debug\Solucao_Calculadora.exe
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora 3.1\Solucao_Calculadora 3.1\Solucao_Calculadora\bin\Debug\Solucao_Calculadora.pdb
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora 3.1\Solucao_Calculadora 3.1\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.Properties.Resources.resources
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora 3.1\Solucao_Calculadora 3.1\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora 3.0\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.Calc_Botao.resources
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora 3.0\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.Calc_RadioButton.resources
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora 3.0\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.Menu_Exercicios.resources
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora 3.0\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.Tela_Login.resources
+C:\Users\LabInfo\Desktop\Solucao_Calculadora 3.1\Solucao_Calculadora\bin\Debug\Solucao_Calculadora.exe.config
+C:\Users\LabInfo\Desktop\Solucao_Calculadora 3.1\Solucao_Calculadora\bin\Debug\Solucao_Calculadora.exe
+C:\Users\LabInfo\Desktop\Solucao_Calculadora 3.1\Solucao_Calculadora\bin\Debug\Solucao_Calculadora.pdb
+C:\Users\LabInfo\Desktop\Solucao_Calculadora 3.1\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.csprojAssemblyReference.cache
+C:\Users\LabInfo\Desktop\Solucao_Calculadora 3.1\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.Calc_Windows.resources
+C:\Users\LabInfo\Desktop\Solucao_Calculadora 3.1\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.Calc_Botao.resources
+C:\Users\LabInfo\Desktop\Solucao_Calculadora 3.1\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.Calc_RadioButton.resources
+C:\Users\LabInfo\Desktop\Solucao_Calculadora 3.1\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.Menu_Exercicios.resources
+C:\Users\LabInfo\Desktop\Solucao_Calculadora 3.1\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.Properties.Resources.resources
+C:\Users\LabInfo\Desktop\Solucao_Calculadora 3.1\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.Tela_Login.resources
+C:\Users\LabInfo\Desktop\Solucao_Calculadora 3.1\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.csproj.GenerateResource.cache
+C:\Users\LabInfo\Desktop\Solucao_Calculadora 3.1\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\LabInfo\Desktop\Solucao_Calculadora 3.1\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.exe
+C:\Users\LabInfo\Desktop\Solucao_Calculadora 3.1\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.pdb
+C:\Users\T-GAMER\Downloads\Solucao_Calculadora 3.1\Solucao_Calculadora 3.1\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.csproj.AssemblyReference.cache
+C:\Users\T-GAMER\Downloads\Solucao_Calculadora 3.1\Solucao_Calculadora 3.1\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.exe
+C:\Users\T-GAMER\Downloads\Solucao_Calculadora 3.1\Solucao_Calculadora 3.1\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.pdb
+C:\Users\T-GAMER\Downloads\Solucao_Calculadora 3.1\Solucao_Calculadora 3.1\Solucao_Calculadora\bin\Debug\Solucao_Calculadora.exe.config
+C:\Users\T-GAMER\Downloads\Solucao_Calculadora 3.1\Solucao_Calculadora 3.1\Solucao_Calculadora\bin\Debug\Solucao_Calculadora.exe
+C:\Users\T-GAMER\Downloads\Solucao_Calculadora 3.1\Solucao_Calculadora 3.1\Solucao_Calculadora\bin\Debug\Solucao_Calculadora.pdb
+C:\Users\T-GAMER\Downloads\Solucao_Calculadora 3.1\Solucao_Calculadora 3.1\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.Calc_Windows.resources
+C:\Users\T-GAMER\Downloads\Solucao_Calculadora 3.1\Solucao_Calculadora 3.1\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.Calc_Botao.resources
+C:\Users\T-GAMER\Downloads\Solucao_Calculadora 3.1\Solucao_Calculadora 3.1\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.Calc_RadioButton.resources
+C:\Users\T-GAMER\Downloads\Solucao_Calculadora 3.1\Solucao_Calculadora 3.1\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.Menu_Exercicios.resources
+C:\Users\T-GAMER\Downloads\Solucao_Calculadora 3.1\Solucao_Calculadora 3.1\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.Properties.Resources.resources
+C:\Users\T-GAMER\Downloads\Solucao_Calculadora 3.1\Solucao_Calculadora 3.1\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.Tela_Login.resources
+C:\Users\T-GAMER\Downloads\Solucao_Calculadora 3.1\Solucao_Calculadora 3.1\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.csproj.GenerateResource.cache
+C:\Users\T-GAMER\Downloads\Solucao_Calculadora 3.1\Solucao_Calculadora 3.1\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora 3.1\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.csproj.AssemblyReference.cache
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora 3.1\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.exe
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora 3.1\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.pdb
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora 3.1\Solucao_Calculadora\bin\Debug\Solucao_Calculadora.exe.config
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora 3.1\Solucao_Calculadora\bin\Debug\Solucao_Calculadora.exe
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora 3.1\Solucao_Calculadora\bin\Debug\Solucao_Calculadora.pdb
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora 3.1\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.Properties.Resources.resources
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora 3.1\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.csproj.GenerateResource.cache
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora 3.1\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora 3.1\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.frmCalc_Windows.resources
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora 3.1\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.FrmCalc_Botao.resources
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora 3.1\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.FrmCalc_RadioButton.resources
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora 3.1\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.FrmMenu_Exercicios.resources
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora 3.1\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.FrmTela_Login.resources
+C:\Users\T-GAMER\Desktop\Solucao_Calculadora 3.1\Solucao_Calculadora\obj\Debug\Solucao_Calculadora.FrmCalculadora_OrientadaObjeto.resources

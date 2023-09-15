@@ -83,16 +83,16 @@
             // 
             this.lblResultado.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblResultado.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.lblResultado.Location = new System.Drawing.Point(436, 50);
+            this.lblResultado.Location = new System.Drawing.Point(431, 48);
             this.lblResultado.Name = "lblResultado";
-            this.lblResultado.Size = new System.Drawing.Size(123, 21);
+            this.lblResultado.Size = new System.Drawing.Size(240, 40);
             this.lblResultado.TabIndex = 4;
             this.lblResultado.Text = "?";
             // 
             // button1
             // 
             this.button1.Image = ((System.Drawing.Image)(resources.GetObject("button1.Image")));
-            this.button1.Location = new System.Drawing.Point(550, 1);
+            this.button1.Location = new System.Drawing.Point(702, -1);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(40, 46);
             this.button1.TabIndex = 5;
@@ -103,7 +103,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(602, 109);
+            this.ClientSize = new System.Drawing.Size(745, 109);
             this.ControlBox = false;
             this.Controls.Add(this.button1);
             this.Controls.Add(this.lblResultado);
