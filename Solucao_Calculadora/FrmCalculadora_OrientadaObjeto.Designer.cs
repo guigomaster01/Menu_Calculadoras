@@ -59,10 +59,9 @@
             "Subtrair",
             "Multiplicar",
             "Potenciação",
-            "Dividir 1",
-            "Dividir 2",
-            "Comparar",
-            "Par_Impar"});
+            "Dividir",
+            "Par_Impar",
+            "Comparar"});
             this.cmbOperacao.Location = new System.Drawing.Point(146, 50);
             this.cmbOperacao.Name = "cmbOperacao";
             this.cmbOperacao.Size = new System.Drawing.Size(121, 21);
@@ -111,6 +110,7 @@
             this.Controls.Add(this.cmbOperacao);
             this.Controls.Add(this.txtN2);
             this.Controls.Add(this.txtN1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FrmCalculadora_OrientadaObjeto";
             this.Text = "Calculadora Orientada a Objeto";
             this.ResumeLayout(false);

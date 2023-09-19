@@ -80,11 +80,6 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Resources.resx</DependentUpon>
-    </Compile>
     <Compile Include="FrmTela_Login.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -118,6 +113,11 @@
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
@@ -128,19 +128,11 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\trocarUsuario.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\calc_botao.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\calc_radio.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\windows.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\userIcone.png" />
+    <None Include="Resources\matematicas.ico" />
+    <None Include="Resources\Calc_botao.ico" />
+    <None Include="Resources\calc_radio.ico" />
+    <None Include="Resources\windows.ico" />
+    <None Include="Resources\trocarUsuario.ico" />
     <Content Include="Resources\windows_icone.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

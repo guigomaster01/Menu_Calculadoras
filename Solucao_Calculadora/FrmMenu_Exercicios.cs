@@ -33,7 +33,10 @@ namespace Solucao_Calculadora
             }
             else //Caso o Usuario tente abrir novas janelas, esta mensagem irá aparecer;
             {
-                MessageBox.Show("Uma Calculadora ja esta aberta!");
+                MessageBox.Show("Uma Calculadora ja esta aberta!",
+                                "Opa!",
+                                MessageBoxButtons.OK,
+                                MessageBoxIcon.Warning);
             }
         }
 
@@ -48,7 +51,10 @@ namespace Solucao_Calculadora
             }
             else
             {
-                MessageBox.Show("Uma Calculadora ja esta aberta!");
+                MessageBox.Show("Uma Calculadora ja esta aberta!",
+                                "Opa!",
+                                MessageBoxButtons.OK,
+                                MessageBoxIcon.Warning);
             }
         }
 
@@ -63,7 +69,10 @@ namespace Solucao_Calculadora
             }
             else
             {
-                MessageBox.Show("Uma Calculadora ja esta aberta!");
+                MessageBox.Show("Uma Calculadora ja esta aberta!",
+                                "Opa!",
+                                MessageBoxButtons.OK,
+                                MessageBoxIcon.Warning);
             }
         }
 
@@ -99,7 +108,10 @@ namespace Solucao_Calculadora
             }
             else
             {
-                MessageBox.Show("Uma Calculadora ja esta aberta!");
+                MessageBox.Show("Uma Calculadora ja esta aberta!",
+                                "Opa!",
+                                MessageBoxButtons.OK,
+                                MessageBoxIcon.Warning);
             }
         }
     }

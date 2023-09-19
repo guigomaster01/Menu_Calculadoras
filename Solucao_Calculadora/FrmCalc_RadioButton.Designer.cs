@@ -146,10 +146,11 @@
             // lblSinal
             // 
             this.lblSinal.AutoSize = true;
-            this.lblSinal.Location = new System.Drawing.Point(273, 36);
+            this.lblSinal.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblSinal.Location = new System.Drawing.Point(264, 36);
             this.lblSinal.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblSinal.Name = "lblSinal";
-            this.lblSinal.Size = new System.Drawing.Size(13, 13);
+            this.lblSinal.Size = new System.Drawing.Size(18, 20);
             this.lblSinal.TabIndex = 3;
             this.lblSinal.Text = "?";
             // 
@@ -208,7 +209,7 @@
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.Button3_Click);
             // 
-            // frmCalcRadio
+            // FrmCalc_RadioButton
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -224,7 +225,7 @@
             this.Controls.Add(this.grbOperações);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Margin = new System.Windows.Forms.Padding(2);
-            this.Name = "frmCalcRadio";
+            this.Name = "FrmCalc_RadioButton";
             this.Text = "frmCalcRadio";
             this.grbOperações.ResumeLayout(false);
             this.grbOperações.PerformLayout();

@@ -53,5 +53,10 @@ namespace Projeto_CalculadoraOrientada_a_Objetos.Classes
         {
             return (_num1 * _num2);
         }
+
+        public string Dividir()
+        {
+            return (_num1 / _num2).ToString();
+        }
     }
 }

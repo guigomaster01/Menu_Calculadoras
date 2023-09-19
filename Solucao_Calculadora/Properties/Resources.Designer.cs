@@ -63,9 +63,9 @@ namespace Solucao_Calculadora.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap calc_botao {
+        internal static System.Drawing.Bitmap Calc_botao {
             get {
-                object obj = ResourceManager.GetObject("calc_botao", resourceCulture);
+                object obj = ResourceManager.GetObject("Calc_botao", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -83,9 +83,9 @@ namespace Solucao_Calculadora.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap trocarUsuario {
+        internal static System.Drawing.Bitmap matematicas {
             get {
-                object obj = ResourceManager.GetObject("trocarUsuario", resourceCulture);
+                object obj = ResourceManager.GetObject("matematicas", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -93,9 +93,9 @@ namespace Solucao_Calculadora.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap userIcone {
+        internal static System.Drawing.Bitmap trocarUsuario {
             get {
-                object obj = ResourceManager.GetObject("userIcone", resourceCulture);
+                object obj = ResourceManager.GetObject("trocarUsuario", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
