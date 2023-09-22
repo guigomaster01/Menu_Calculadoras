@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace Projeto_CalculadoraOrientada_a_Objetos.Classes
 {
@@ -54,9 +55,31 @@ namespace Projeto_CalculadoraOrientada_a_Objetos.Classes
             return (_num1 * _num2);
         }
 
-        public string Dividir()
+        public string Dividir(decimal a, decimal b)
         {
-            return (_num1 / _num2).ToString();
+            try
+            {
+               if (b == 0)//validação do Divisor, caso for 0 inicia este bloco.
+                {
+                    // declaração throw ou throw statement:
+                    throw new DivideByZeroException();// força o programa iniciar o Bloco catch com
+                                                      // a Exceção associada.
+
+                }
+            }
+            catch (FormatException)
+            {
+                return "Digite apenas números";
+            }
+
+            catch (DivideByZeroException)
+            {
+                return "Impossivel dividir por zero";
+                
+            }
+
+                return (a / b).ToString();
+            
         }
     }
 }

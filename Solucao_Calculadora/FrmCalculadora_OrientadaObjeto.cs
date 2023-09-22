@@ -55,9 +55,9 @@ namespace Solucao_Calculadora
                 case "Dividir":
                     {
                         CalcCientifica objCalc = new CalcCientifica();
-                        objCalc.Num1 = a;
-                        objCalc.Num2 = b;
-                        lblResultado.Text = objCalc.Dividir().ToString();
+                        //objCalc.Num1 = a;
+                        //objCalc.Num2 = b;
+                        lblResultado.Text = objCalc.Dividir(a, b);
                         break;
                     }
                 case "Potenciação":
